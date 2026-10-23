@@ -1,0 +1,7 @@
+# robots.txt — https://ihub.com.br/
+# Libera a indexação de todo o site e aponta o sitemap.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://ihub.com.br/sitemap.xml
